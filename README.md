@@ -46,11 +46,11 @@ h_t = (1 − z_t) * h_{t−1} + z_t * h̃_t
 ## 4. Model Diagram
 
 ### 4.1 CNN–GRU Hybrid Architecture Diagram
-![CNN-GRU Architecture](path_to_architecture_image.png)  
+![CNN-GRU Architecture](https://github.com/vinayKagitha/Hybrid_CNN_GRU_TimeSeries_Forecasting/blob/main/Model_architecure_diagram.png)  
 *High-level overview of the CNN–GRU model components and their connections.*
 
 ### 4.2 CNN–GRU Hybrid Model Flowchart with Data Shapes
-![Flowchart with Data Shapes](path_to_flowchart_image.png)  
+![Flowchart with Data Shapes](https://github.com/vinayKagitha/Hybrid_CNN_GRU_TimeSeries_Forecasting/blob/main/FlowChart.png) 
 *Flowchart showing tensor shape transformations as data flows through the network.*
 
 **Layer Composition:**
